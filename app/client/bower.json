@@ -1,0 +1,7 @@
+{
+  "name": "user-app-client",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
